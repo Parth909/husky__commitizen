@@ -1,0 +1,4 @@
+// .lintstagedrc
+{
+  "*.(js|jsx|ts|tsx)": "eslint --fix ."
+}
